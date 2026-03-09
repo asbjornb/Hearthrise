@@ -89,7 +89,7 @@ Over time your camp grows into a small settlement with workshops, farms, and spe
 
 ## Design Goals
 
-- Focus on satisfying progression — no dark patterns or predatory monetization
+- Focus on satisfying progression
 - No artificial waiting or pay-to-skip mechanics
 - Deep crafting and resource chains
 - A world that grows with the player
